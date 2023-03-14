@@ -1,3 +1,5 @@
+This document records what I would continue to work on and improve:
+
 * Server: 
   * If given a gamestate, the server should enforce that the number of remote clients and number of players in the gamestate are equal.
   * The server should require a client to send it's name in the required time before it considers it a valid connection. Currently, the server establishes as many connections as are tried and filters out players that never sent their name after.
