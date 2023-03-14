@@ -1,1 +1,0 @@
-../Common/labyrinth/src/main/java/game/controller/ObserverController.java

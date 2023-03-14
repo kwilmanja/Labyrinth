@@ -1,1 +1,0 @@
-labyrinth/src/main/java/game/model/Tile.java
